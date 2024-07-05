@@ -1,2 +1,2 @@
 # fastapitutorial
-TIUTORIL OF FASTAPI
+TUTORIAL OF FASTAPI
